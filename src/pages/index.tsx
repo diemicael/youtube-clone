@@ -2,7 +2,7 @@ import React from 'react';
 import { Box, Grid } from '@material-ui/core';
 
 import { Layout } from 'src/components/Layout';
-import { VideoCard } from 'src/components/VideoCard';
+import VideoCard from 'src/components/VideoCard';
 
 function Home({ data }) {
   return (
