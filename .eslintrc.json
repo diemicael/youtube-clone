@@ -29,6 +29,7 @@
     "prettier/prettier": "error",
     "space-before-function-paren": "off",
     "react/prop-types": "off",
-    "react/react-in-tsx-scope": "off"
+    "react/react-in-tsx-scope": "off",
+    "import/no-unresolved": "off"
   }
 }
